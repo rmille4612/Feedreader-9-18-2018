@@ -1,0 +1,12 @@
+
+@@ -86,7 +86,6 @@ function init() {
+/* Google API: Loads the Feed Reader API and defines what function
+ * to call when the Feed Reader API is done loading.
+ */
+google.load('feeds', '1');
+google.setOnLoadCallback(init);
+ /* All of this functionality is heavily reliant upon the DOM, so we
+
+
+
+//https://github.com/udacity/frontend-nanodegree-feedreader/commit/d202fadb2ae8d62cefdd2930d9d5649bf34b59df
